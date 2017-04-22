@@ -1,6 +1,6 @@
 {
   "name": "assert-that",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "JavaScript mocking library with super-simple syntax",
   "main": "index.js",
   "scripts": {
