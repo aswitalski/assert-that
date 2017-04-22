@@ -1,5 +1,5 @@
 # assert-that
-JavaScript mocking library with super-simple syntax.
+JavaScript assertion library with super-simple syntax.
 
 # Syntax
 
